@@ -36,6 +36,7 @@ section{
 
 a.nav-item {
 	color: #dfdfdf;
+	width: 100px;
 }
 
 a.nav-item:hover {
@@ -105,4 +106,7 @@ a.nav-item:hover {
 		background-color: #fff;
 	}
 
+}
+h1 {
+	background-color: goldenrod;
 }
